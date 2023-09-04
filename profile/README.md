@@ -7,9 +7,9 @@
 ### 📂 레포지토리별 개요 및 링크
 📌 레포지토리 이름을 누르면 각 레포지토리 별 실행 방법을 확인할 수 있습니다.
 
-🔎 [SeeYourSound FrontEnd](https://github.com/KOBOT-BOARD12/seeyoursound-frontend.git):
+🔎 [SeeYourSound FrontEnd](https://github.com/KOBOT-BOARD12/seeyoursound-frontend.git): Android Studio에서 JAVA 언어를 통하여 실제로 사용자들이 사용할 수 있는 앱을 개발했다.
 
-🔎 [SeeYourSound BackEnd](https://github.com/KOBOT-BOARD12/seeyoursound-backend.git):
+🔎 [SeeYourSound BackEnd](https://github.com/KOBOT-BOARD12/seeyoursound-backend.git): Python 언어를 통하여 주로 
 
 🔎 [SeeYourSound Model Serving](https://github.com/KOBOT-BOARD12/seeyoursound-model-serving.git):
 
