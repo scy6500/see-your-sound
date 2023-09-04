@@ -1,14 +1,16 @@
 # 👀🔉 See Your Sound
-<그림>
+<ㄱ 림>
 ### 🔧 개발 배경
-#### 청각 장애인과 길에서 이어폰을 끼고 다니는 즉, 외부 소리가 차단된 사람들이 도로 환경에서 발생하는 소리들을 인식하도록 하는 장치가 필요하다고 생각했다.
+청각 장애인과 길에서 이어폰을 끼고 다니는 즉, 외부 소리가 차단된 사람들이 도로 환경에서 발생하는 소리들을 인식하도록 하는 장치가 필요하다고 생각했다.
 ### 🔦 개발 목적
-#### 소리를 실시간으로 인식 후, 디스플레이 알림과 진동으로 소리의 종류나 미리 등록된 키워드 여부, 소리의 방향을 알려 주는 서비스를 만드는 것이 목적이다.
+소리를 실시간으로 인식 후, 디스플레이 알림과 진동으로 소리의 종류나 미리 등록된 키워드 여부, 소리의 방향을 알려 주는 서비스를 만드는 것이 목적이다.
 ### 📂 레포지토리별 개요 및 링크
-#### 📌 레포지토리 이름을 누르면 각 레포지토리 별 실행 방법을 확인할 수 있습니다. 📌
-#### 🔎 [SeeYourSound FrontEnd](https://github.com/KOBOT-BOARD12/seeyoursound-frontend.git):
-#### 🔎 [SeeYourSound BackEnd](https://github.com/KOBOT-BOARD12/seeyoursound-backend.git):
-#### 🔎 [SeeYourSound Model Serving](https://github.com/KOBOT-BOARD12/seeyoursound-model-serving.git):
+📌 레포지토리 이름을 누르면 각 레포지토리 별 실행 방법을 확인할 수 있습니다.
+🔎 [SeeYourSound FrontEnd](https://github.com/KOBOT-BOARD12/seeyoursound-frontend.git):
+
+🔎 [SeeYourSound BackEnd](https://github.com/KOBOT-BOARD12/seeyoursound-backend.git):
+
+🔎 [SeeYourSound Model Serving](https://github.com/KOBOT-BOARD12/seeyoursound-model-serving.git):
 
 ### 🎉  See Your Sound App 실행 순서
 0. 레포지토리 다운로드 - 중앙 서비스 서버
