@@ -7,11 +7,11 @@
 ### 📂 레포지토리별 개요 및 링크
 `📌 레포지토리 이름을 누르면 각 레포지토리별 실행 방법을 확인할 수 있다.`
 
-🔎 [SeeYourSound FrontEnd](https://github.com/KOBOT-BOARD12/seeyoursound-frontend.git): Android Studio에서 JAVA 언어를 통하여 실제로 사용자들이 사용할 수 있는 앱을 개발했다.
+🔎 [SeeYourSound FrontEnd](https://github.com/KOBOT-BOARD12/seeyoursound-frontend.git): Android Studio에서 JAVA 언어를 통하여 주변 소리와 등록한 예약어를 탐지할 수 있는 앱을 개발하고 디자인하였다.
 
-🔎 [SeeYourSound BackEnd](https://github.com/KOBOT-BOARD12/seeyoursound-backend.git): Python 언어를 통하여 주로 DB와의 연결, API 개발, websocket을 통해 앱과 서버를 연결했다.
+🔎 [SeeYourSound BackEnd](https://github.com/KOBOT-BOARD12/seeyoursound-backend.git): Python 언어를 통하여 주로 DB와의 연결, 예약어 관련 API와 소리 클래스 선택 API 개발, websocket을 통해 앱과 서버를 연결했다.
 
-🔎 [SeeYourSound Model Serving](https://github.com/KOBOT-BOARD12/seeyoursound-model-serving.git): 학습시킨 모델을 서빙했다.
+🔎 [SeeYourSound Model Serving](https://github.com/KOBOT-BOARD12/seeyoursound-model-serving.git): 소리 분류 모델, 등록된 예약어와 탐지된 소리의 유사도를 비교하는 모델, 방향 탐지 모델을 학습시키고 서빙하였다.
 
 ### 🎉  See Your Sound App 실행 순서
 0. repository clone - 중앙 제어 서버
