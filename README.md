@@ -14,11 +14,11 @@
 🔎 [SeeYourSound Model Serving](https://github.com/KOBOT-BOARD12/seeyoursound-model-serving.git): 학습시킨 모델을 서빙했다.
 
 ### 🎉  See Your Sound App 실행 순서
-0. 레포지토리 다운로드 - 중앙 제어 서버
+0. repository clone - 중앙 제어 서버
 ```shell
 git clone https://github.com/KOBOT-BOARD12/seeyoursound-backend.git
 ```
-1. 레포지토리 다운로드 - 모델 서버 `(※ gpu가 탑재돼 있는 환경에서 실행시키는 것이 효율적이다.)`
+1. repository clone - 모델 서버 `(※ gpu가 탑재돼 있는 환경에서 실행시키는 것이 효율적이다.)`
 ```shell
 git clone https://github.com/KOBOT-BOARD12/seeyoursound-model-serving.git
 ```
